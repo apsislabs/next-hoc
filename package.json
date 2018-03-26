@@ -1,11 +1,11 @@
 {
   "name": "next-hoc",
   "version": "0.1.0",
-  "description": "",
+  "description": "A set of helpful HOC for working with Next.js",
   "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
-    "dev": "rollup -c -w"
+    "prepare": "npm run build"
   },
   "dependencies": {
     "lodash.has": "^4.5.2",
