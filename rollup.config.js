@@ -10,7 +10,7 @@ export default {
     file: "dist/index.js",
     format: "umd"
   },
-  external: ["react", "next/router"],
+  external: ["react", "next/router", "prop-types"],
   plugins: [
     json(),
     commonjs({

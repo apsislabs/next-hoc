@@ -1,3 +1,5 @@
+import React from "react";
+import PropTypes from "prop-types";
 import { getContext, withContext } from "recompose";
 
 export const SingletonProvider = key => BaseComponent =>

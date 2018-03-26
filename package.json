@@ -10,6 +10,7 @@
   "dependencies": {
     "lodash.has": "^4.5.2",
     "lodash.some": "^4.6.0",
+    "prop-types": "^15.6.1",
     "recompose": "^0.26.0"
   },
   "devDependencies": {
