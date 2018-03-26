@@ -1,5 +1,5 @@
 export { withRedirectTo } from "./wrappers/withRedirectTo";
-export { withSingleton } from "./wrappers/withSingleton";
+export { SingletonProvider, withSingleton } from "./wrappers/withSingleton";
 export {
   renderIfPermitted,
   withPermissionCheck
