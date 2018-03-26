@@ -1,6 +1,6 @@
 {
   "name": "next-hoc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A set of helpful HOC for working with Next.js",
   "main": "dist/index.js",
   "scripts": {
